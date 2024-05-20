@@ -13,8 +13,10 @@ h1, h2 {
     text-align: center;
 }
 
-#sub-head-align {
+h2 {
     text-align: left;
+    font-style: italic; 
+    color: #F16A6F;
 }
 
 

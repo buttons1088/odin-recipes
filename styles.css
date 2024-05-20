@@ -1,11 +1,11 @@
-h1 {
-    text-align: center;
-    color: #a05cd1;
-    background-color: yellow;
+body {
+    background-color: rgb(232, 255, 245);
 }
 
-.description {
-    color: #a05cd1;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border-style: dotted;
+/* front page */
+h1 {
+    font-style: italic; 
+    color: #F16A6F;
+    text-align: center;
 }
+

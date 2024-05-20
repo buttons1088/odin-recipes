@@ -7,11 +7,16 @@ body {
 }
 
 /* front page */
-h1 {
+h1, h2 {
     font-style: italic; 
     color: #F16A6F;
     text-align: center;
 }
+
+#sub-head-align {
+    text-align: left;
+}
+
 
 figcaption {
     text-align: center;

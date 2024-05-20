@@ -6,7 +6,7 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-/* front page */
+/*front page rules*/
 h1, h2 {
     font-style: italic; 
     color: #F16A6F;
@@ -32,13 +32,22 @@ figcaption {
     
 }
 
-.home-intro {
+.description-style {
     text-align: center;
     font-weight: bolder;
     color: #69587B;
     background-color: #FEA889;
     padding: 10px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin: 10px 100px;
     border: 3px dotted #69587B;
 }
+
+/*recipe page images*/
+
+.lasagna-image {
+    height: 500px;
+    width: 600px;
+    display:block;
+    margin: auto;
+}
+

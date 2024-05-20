@@ -13,8 +13,21 @@ h1 {
     text-align: center;
 }
 
+figcaption {
+    text-align: center;
+}
+
+.chef-image {
+    height:auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+    
+}
+
 .home-intro {
     text-align: center;
+    font-weight: bolder;
     color: #69587B;
     background-color: #FEA889;
     padding: 10px;
